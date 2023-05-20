@@ -1,3 +1,3 @@
 # vl901 -A Universal Method of Linear Approximation With Controllable Error for the Efficient Implementation of Transcendental Functions
-In this paper, a general piecewise linear (PWL) approximation method with controllable maximum absolute error for transcend-ental functions is proposed. The
+In this project, a general piecewise linear (PWL) approximation method with controllable maximum absolute error for transcend-ental functions is proposed. The
 method has the self-adaptive capability to choose the smallest number of segments under the constraint of a controllable maximum absolute error. Therefore, it requires fewer segments and incurs less hardware overhead. Moreover, it can approximate any transcendental functions and does not rely on any properties of the target function.
